@@ -1,0 +1,110 @@
+
+slotbcat.png
+size: 1827,1445
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: true
+  xy: 605, 820
+  size: 350, 592
+  orig: 350, 592
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: true
+  xy: 1240, 1165
+  size: 278, 585
+  orig: 278, 586
+  offset: 0, 1
+  index: -1
+guangxian
+  rotate: false
+  xy: 1316, 2
+  size: 476, 783
+  orig: 877, 858
+  offset: 182, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 560, 334
+  size: 451, 754
+  orig: 849, 836
+  offset: 194, 0
+  index: -1
+sshanshan
+  rotate: false
+  xy: 2, 390
+  size: 556, 486
+  orig: 649, 486
+  offset: 38, 0
+  index: -1
+wild
+  rotate: false
+  xy: 593, 1172
+  size: 645, 271
+  orig: 653, 276
+  offset: 3, 3
+  index: -1
+yan
+  rotate: false
+  xy: 84, 1380
+  size: 104, 63
+  orig: 114, 77
+  offset: 6, 8
+  index: -1
+youchiguang
+  rotate: true
+  xy: 2, 878
+  size: 292, 601
+  orig: 292, 601
+  offset: 0, 0
+  index: -1
+youer
+  rotate: false
+  xy: 2, 1386
+  size: 80, 57
+  orig: 92, 57
+  offset: 5, 0
+  index: -1
+youerguang
+  rotate: false
+  xy: 190, 1370
+  size: 81, 73
+  orig: 83, 73
+  offset: 0, 0
+  index: -1
+zouchiguang
+  rotate: true
+  xy: 1199, 787
+  size: 376, 597
+  orig: 376, 597
+  offset: 0, 0
+  index: -1
+zouerguang
+  rotate: true
+  xy: 430, 1315
+  size: 128, 161
+  orig: 131, 161
+  offset: 3, 0
+  index: -1
+zuoer
+  rotate: true
+  xy: 273, 1321
+  size: 122, 155
+  orig: 122, 155
+  offset: 0, 0
+  index: -1
+
+slotbcat2.png
+size: 1945,1942
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangguangyun
+  rotate: false
+  xy: 2, 2
+  size: 1941, 1938
+  orig: 2000, 2000
+  offset: 29, 29
+  index: -1

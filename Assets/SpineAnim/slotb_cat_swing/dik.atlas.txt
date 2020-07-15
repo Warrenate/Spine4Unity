@@ -1,0 +1,13 @@
+
+dik.png
+size: 837,761
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dikuang
+  rotate: false
+  xy: 2, 2
+  size: 833, 757
+  orig: 834, 757
+  offset: 1, 0
+  index: -1

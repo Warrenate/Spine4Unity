@@ -1,0 +1,167 @@
+
+ashinubi.skel.png
+size: 2615,1246
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoshi
+  rotate: true
+  xy: 686, 154
+  size: 91, 51
+  orig: 93, 53
+  offset: 1, 1
+  index: -1
+fazhang2
+  rotate: true
+  xy: 2, 642
+  size: 602, 2593
+  orig: 613, 2595
+  offset: 11, 0
+  index: -1
+goutou
+  rotate: false
+  xy: 1414, 49
+  size: 298, 239
+  orig: 306, 242
+  offset: 8, 3
+  index: -1
+guang1
+  rotate: false
+  xy: 2, 6
+  size: 164, 70
+  orig: 177, 76
+  offset: 8, 3
+  index: -1
+guang2
+  rotate: true
+  xy: 2200, 25
+  size: 164, 165
+  orig: 179, 180
+  offset: 8, 7
+  index: -1
+guang3
+  rotate: true
+  xy: 2200, 25
+  size: 164, 165
+  orig: 179, 180
+  offset: 8, 7
+  index: -1
+guang4
+  rotate: false
+  xy: 1714, 35
+  size: 253, 253
+  orig: 275, 276
+  offset: 11, 11
+  index: -1
+guangguangyun
+  rotate: false
+  xy: 1969, 85
+  size: 229, 252
+  orig: 240, 277
+  offset: 11, 14
+  index: -1
+guangshu
+  rotate: true
+  xy: 2, 78
+  size: 137, 499
+  orig: 162, 559
+  offset: 12, 44
+  index: -1
+houer
+  rotate: true
+  xy: 168, 19
+  size: 57, 156
+  orig: 57, 156
+  offset: 0, 0
+  index: -1
+piaodai
+  rotate: true
+  xy: 2377, 137
+  size: 232, 236
+  orig: 234, 236
+  offset: 0, 0
+  index: -1
+qianpiaodai
+  rotate: false
+  xy: 2419, 371
+  size: 175, 269
+  orig: 175, 269
+  offset: 0, 0
+  index: -1
+shangshen
+  rotate: true
+  xy: 2, 217
+  size: 423, 667
+  orig: 461, 670
+  offset: 0, 0
+  index: -1
+shanguangpiaodai
+  rotate: false
+  xy: 2200, 191
+  size: 175, 269
+  orig: 175, 269
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 503, 104
+  size: 111, 181
+  orig: 111, 182
+  offset: 0, 0
+  index: -1
+xiaoqianbu 
+  rotate: false
+  xy: 671, 315
+  size: 603, 325
+  orig: 603, 329
+  offset: 0, 4
+  index: -1
+xiashen
+  rotate: true
+  xy: 1276, 290
+  size: 350, 525
+  orig: 350, 529
+  offset: 0, 0
+  index: -1
+xuanguang
+  rotate: false
+  xy: 1803, 339
+  size: 295, 301
+  orig: 303, 303
+  offset: 3, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 671, 247
+  size: 101, 66
+  orig: 101, 66
+  offset: 0, 0
+  index: -1
+yanshenguang
+  rotate: false
+  xy: 326, 36
+  size: 177, 40
+  orig: 191, 45
+  offset: 6, 3
+  index: -1
+youbi
+  rotate: true
+  xy: 739, 2
+  size: 243, 673
+  orig: 243, 703
+  offset: 0, 30
+  index: -1
+zuobi
+  rotate: true
+  xy: 2100, 462
+  size: 178, 317
+  orig: 181, 320
+  offset: 1, 1
+  index: -1
+zuoerduo
+  rotate: true
+  xy: 505, 25
+  size: 77, 184
+  orig: 77, 194
+  offset: 0, 10
+  index: -1
