@@ -1,0 +1,216 @@
+
+sym3.jpg
+size: 1942,488
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sym3_0001_sym3-animation_29
+  rotate: false
+  xy: 2, 164
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+sym3_0002_sym3-animation_28
+  rotate: false
+  xy: 196, 326
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+sym3_0003_sym3-animation_27
+  rotate: false
+  xy: 2, 2
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+sym3_0004_sym3-animation_26
+  rotate: false
+  xy: 196, 164
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+sym3_0005_sym3-animation_25
+  rotate: false
+  xy: 390, 326
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+sym3_0006_sym3-animation_24
+  rotate: false
+  xy: 196, 2
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+sym3_0007_sym3-animation_23
+  rotate: false
+  xy: 390, 164
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+sym3_0008_sym3-animation_22
+  rotate: false
+  xy: 584, 326
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+sym3_0009_sym3-animation_21
+  rotate: false
+  xy: 390, 2
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+sym3_0010_sym3-animation_20
+  rotate: false
+  xy: 584, 164
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+sym3_0011_sym3-animation_19
+  rotate: false
+  xy: 778, 326
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+sym3_0012_sym3-animation_18
+  rotate: false
+  xy: 584, 2
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+sym3_0013_sym3-animation_17
+  rotate: false
+  xy: 778, 164
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+sym3_0014_sym3-animation_16
+  rotate: false
+  xy: 972, 326
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+sym3_0015_sym3-animation_15
+  rotate: false
+  xy: 778, 2
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+sym3_0016_sym3-animation_14
+  rotate: false
+  xy: 972, 164
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+sym3_0017_sym3-animation_13
+  rotate: false
+  xy: 1166, 326
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+sym3_0018_sym3-animation_12
+  rotate: false
+  xy: 972, 2
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+sym3_0019_sym3-animation_11
+  rotate: false
+  xy: 1166, 164
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+sym3_0020_sym3-animation_10
+  rotate: false
+  xy: 1360, 326
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+sym3_0021_sym3-animation_9
+  rotate: false
+  xy: 1166, 2
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+sym3_0022_sym3-animation_8
+  rotate: false
+  xy: 1360, 164
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+sym3_0023_sym3-animation_7
+  rotate: false
+  xy: 1554, 326
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+sym3_0024_sym3-animation_6
+  rotate: false
+  xy: 1360, 2
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+sym3_0025_sym3-animation_5
+  rotate: false
+  xy: 1554, 164
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+sym3_0026_sym3-animation_4
+  rotate: false
+  xy: 1748, 326
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+sym3_0027_sym3-animation_3
+  rotate: false
+  xy: 1554, 2
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+sym3_0028_sym3-animation_2
+  rotate: false
+  xy: 1748, 164
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+sym3_0029_sym3-animation_1
+  rotate: false
+  xy: 1748, 2
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+sym3_0030_sym3-animation_0
+  rotate: false
+  xy: 2, 326
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1

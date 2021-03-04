@@ -1,0 +1,1031 @@
+
+wild.png
+size: 1024,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FreeSpins/bgFS
+  rotate: false
+  xy: 2, 500
+  size: 960, 520
+  orig: 960, 520
+  offset: 0, 0
+  index: -1
+FreeSpins/road_00000
+  rotate: true
+  xy: 2, 18
+  size: 480, 960
+  orig: 480, 960
+  offset: 0, 0
+  index: -1
+bottom_frame
+  rotate: true
+  xy: 964, 752
+  size: 192, 2
+  orig: 192, 2
+  offset: 0, 0
+  index: -1
+ferrari2
+  rotate: true
+  xy: 964, 946
+  size: 74, 58
+  orig: 74, 58
+  offset: 0, 0
+  index: -1
+left_frame
+  rotate: true
+  xy: 196, 14
+  size: 2, 160
+  orig: 2, 160
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 2, 6
+  size: 192, 10
+  orig: 192, 10
+  offset: 0, 0
+  index: -1
+right_frame
+  rotate: false
+  xy: 964, 590
+  size: 2, 160
+  orig: 2, 160
+  offset: 0, 0
+  index: -1
+top_frame
+  rotate: false
+  xy: 2, 2
+  size: 192, 2
+  orig: 192, 2
+  offset: 0, 0
+  index: -1
+
+wild2.png
+size: 964,1006
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FreeSpins/road_00001
+  rotate: true
+  xy: 2, 2
+  size: 480, 960
+  orig: 480, 960
+  offset: 0, 0
+  index: -1
+MainGame/bg
+  rotate: false
+  xy: 2, 484
+  size: 960, 520
+  orig: 960, 520
+  offset: 0, 0
+  index: -1
+
+wild3.png
+size: 966,964
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FreeSpins/road_00002
+  rotate: false
+  xy: 2, 2
+  size: 480, 960
+  orig: 480, 960
+  offset: 0, 0
+  index: -1
+FreeSpins/road_00003
+  rotate: false
+  xy: 484, 2
+  size: 480, 960
+  orig: 480, 960
+  offset: 0, 0
+  index: -1
+
+wild4.png
+size: 966,964
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FreeSpins/road_00004
+  rotate: false
+  xy: 2, 2
+  size: 480, 960
+  orig: 480, 960
+  offset: 0, 0
+  index: -1
+FreeSpins/road_00005
+  rotate: false
+  xy: 484, 2
+  size: 480, 960
+  orig: 480, 960
+  offset: 0, 0
+  index: -1
+
+wild5.png
+size: 966,964
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FreeSpins/road_00006
+  rotate: false
+  xy: 2, 2
+  size: 480, 960
+  orig: 480, 960
+  offset: 0, 0
+  index: -1
+FreeSpins/road_00007
+  rotate: false
+  xy: 484, 2
+  size: 480, 960
+  orig: 480, 960
+  offset: 0, 0
+  index: -1
+
+wild6.png
+size: 966,964
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FreeSpins/road_00008
+  rotate: false
+  xy: 2, 2
+  size: 480, 960
+  orig: 480, 960
+  offset: 0, 0
+  index: -1
+FreeSpins/road_00009
+  rotate: false
+  xy: 484, 2
+  size: 480, 960
+  orig: 480, 960
+  offset: 0, 0
+  index: -1
+
+wild7.png
+size: 966,964
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MainGame/road_00000
+  rotate: false
+  xy: 2, 2
+  size: 480, 960
+  orig: 480, 960
+  offset: 0, 0
+  index: -1
+MainGame/road_00001
+  rotate: false
+  xy: 484, 2
+  size: 480, 960
+  orig: 480, 960
+  offset: 0, 0
+  index: -1
+
+wild8.png
+size: 966,964
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MainGame/road_00002
+  rotate: false
+  xy: 2, 2
+  size: 480, 960
+  orig: 480, 960
+  offset: 0, 0
+  index: -1
+MainGame/road_00003
+  rotate: false
+  xy: 484, 2
+  size: 480, 960
+  orig: 480, 960
+  offset: 0, 0
+  index: -1
+
+wild9.png
+size: 966,964
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MainGame/road_00004
+  rotate: false
+  xy: 2, 2
+  size: 480, 960
+  orig: 480, 960
+  offset: 0, 0
+  index: -1
+MainGame/road_00005
+  rotate: false
+  xy: 484, 2
+  size: 480, 960
+  orig: 480, 960
+  offset: 0, 0
+  index: -1
+
+wild10.png
+size: 966,964
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MainGame/road_00006
+  rotate: false
+  xy: 2, 2
+  size: 480, 960
+  orig: 480, 960
+  offset: 0, 0
+  index: -1
+MainGame/road_00007
+  rotate: false
+  xy: 484, 2
+  size: 480, 960
+  orig: 480, 960
+  offset: 0, 0
+  index: -1
+
+wild11.png
+size: 966,964
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MainGame/road_00008
+  rotate: false
+  xy: 2, 2
+  size: 480, 960
+  orig: 480, 960
+  offset: 0, 0
+  index: -1
+MainGame/road_00009
+  rotate: false
+  xy: 484, 2
+  size: 480, 960
+  orig: 480, 960
+  offset: 0, 0
+  index: -1
+
+wild12.png
+size: 1001,1005
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FreeSpins/light
+  rotate: true
+  xy: 776, 524
+  size: 479, 144
+  orig: 479, 144
+  offset: 0, 0
+  index: -1
+FreeSpins/pontiac
+  rotate: false
+  xy: 2, 403
+  size: 772, 600
+  orig: 772, 600
+  offset: 0, 0
+  index: -1
+Reflection/reflection_00000
+  rotate: false
+  xy: 2, 2
+  size: 271, 77
+  orig: 271, 77
+  offset: 0, 0
+  index: -1
+Reflection/reflection_00001
+  rotate: true
+  xy: 922, 732
+  size: 271, 77
+  orig: 271, 77
+  offset: 0, 0
+  index: -1
+Reflection/reflection_00002
+  rotate: false
+  xy: 275, 2
+  size: 271, 77
+  orig: 271, 77
+  offset: 0, 0
+  index: -1
+Reflection/reflection_00003
+  rotate: true
+  xy: 726, 130
+  size: 271, 77
+  orig: 271, 77
+  offset: 0, 0
+  index: -1
+Reflection/reflection_00004
+  rotate: true
+  xy: 922, 459
+  size: 271, 77
+  orig: 271, 77
+  offset: 0, 0
+  index: -1
+Wild_Attention/Wild_Attention_00000
+  rotate: true
+  xy: 805, 222
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Attention/Wild_Attention_00001
+  rotate: false
+  xy: 805, 60
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+siren_blue
+  rotate: false
+  xy: 776, 416
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+smoke/smoke_00000
+  rotate: false
+  xy: 2, 81
+  size: 360, 320
+  orig: 360, 320
+  offset: 0, 0
+  index: -1
+smoke/smoke_00001
+  rotate: false
+  xy: 364, 81
+  size: 360, 320
+  orig: 360, 320
+  offset: 0, 0
+  index: -1
+
+wild13.png
+size: 970,1012
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MainGame/pontiac
+  rotate: false
+  xy: 2, 410
+  size: 772, 600
+  orig: 772, 600
+  offset: 0, 0
+  index: -1
+Wild_Attention/Wild_Attention_00002
+  rotate: false
+  xy: 776, 850
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Attention/Wild_Attention_00003
+  rotate: false
+  xy: 776, 688
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Attention/Wild_Attention_00004
+  rotate: false
+  xy: 776, 526
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Attention/Wild_Attention_00005
+  rotate: false
+  xy: 776, 364
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+smoke/smoke_00002
+  rotate: true
+  xy: 2, 48
+  size: 360, 320
+  orig: 360, 320
+  offset: 0, 0
+  index: -1
+smoke/smoke_00003
+  rotate: true
+  xy: 324, 48
+  size: 360, 320
+  orig: 360, 320
+  offset: 0, 0
+  index: -1
+smoke/smoke_00004
+  rotate: true
+  xy: 646, 2
+  size: 360, 320
+  orig: 360, 320
+  offset: 0, 0
+  index: -1
+
+wild14.png
+size: 972,974
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wild_Attention/Wild_Attention_00006
+  rotate: false
+  xy: 110, 812
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Attention/Wild_Attention_00007
+  rotate: false
+  xy: 304, 812
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Attention/Wild_Attention_00008
+  rotate: false
+  xy: 498, 812
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Attention/Wild_Attention_00009
+  rotate: false
+  xy: 692, 812
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Attention/Wild_Attention_00010
+  rotate: false
+  xy: 2, 650
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Attention/Wild_Attention_00011
+  rotate: false
+  xy: 196, 650
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Attention/Wild_Attention_00012
+  rotate: false
+  xy: 390, 650
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Attention/Wild_Attention_00013
+  rotate: false
+  xy: 584, 650
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Attention/Wild_Attention_00014
+  rotate: false
+  xy: 778, 650
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Attention/Wild_Attention_00015
+  rotate: false
+  xy: 2, 488
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Attention/Wild_Attention_00016
+  rotate: false
+  xy: 196, 488
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Attention/Wild_Attention_00017
+  rotate: false
+  xy: 390, 488
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Attention/Wild_Attention_00018
+  rotate: false
+  xy: 584, 488
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Attention/Wild_Attention_00019
+  rotate: false
+  xy: 778, 488
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Attention/Wild_Attention_00020
+  rotate: false
+  xy: 2, 326
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Attention/Wild_Attention_00021
+  rotate: false
+  xy: 196, 326
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Attention/Wild_Attention_00022
+  rotate: false
+  xy: 390, 326
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Attention/Wild_Attention_00023
+  rotate: false
+  xy: 584, 326
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Attention/Wild_Attention_00024
+  rotate: false
+  xy: 778, 326
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Attention/Wild_Attention_00025
+  rotate: false
+  xy: 2, 164
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Attention/Wild_Attention_00026
+  rotate: false
+  xy: 196, 164
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Attention/Wild_Attention_00027
+  rotate: false
+  xy: 390, 164
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Attention/Wild_Attention_00028
+  rotate: false
+  xy: 584, 164
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Attention/Wild_Attention_00029
+  rotate: false
+  xy: 778, 164
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Transform/Wild_Transform_00000
+  rotate: false
+  xy: 2, 2
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Transform/Wild_Transform_00001
+  rotate: false
+  xy: 196, 2
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Transform/Wild_Transform_00002
+  rotate: false
+  xy: 390, 2
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Transform/Wild_Transform_00003
+  rotate: false
+  xy: 584, 2
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Transform/Wild_Transform_00004
+  rotate: false
+  xy: 778, 2
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+siren_red
+  rotate: false
+  xy: 2, 866
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+
+wild15.png
+size: 1008,1012
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FreeSpins/ferrari
+  rotate: false
+  xy: 2, 435
+  size: 735, 575
+  orig: 735, 575
+  offset: 0, 0
+  index: -1
+Wild_Transform/Wild_Transform_00005
+  rotate: false
+  xy: 739, 850
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Transform/Wild_Transform_00006
+  rotate: false
+  xy: 739, 688
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Transform/Wild_Transform_00007
+  rotate: false
+  xy: 739, 526
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Transform/Wild_Transform_00008
+  rotate: false
+  xy: 739, 364
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+smoke/smoke_00005
+  rotate: true
+  xy: 2, 73
+  size: 360, 320
+  orig: 360, 320
+  offset: 0, 0
+  index: -1
+smoke/smoke_00006
+  rotate: false
+  xy: 324, 113
+  size: 360, 320
+  orig: 360, 320
+  offset: 0, 0
+  index: -1
+smoke/smoke_00007
+  rotate: true
+  xy: 686, 2
+  size: 360, 320
+  orig: 360, 320
+  offset: 0, 0
+  index: -1
+
+wild16.png
+size: 1008,1012
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MainGame/ferrari
+  rotate: false
+  xy: 2, 435
+  size: 735, 575
+  orig: 735, 575
+  offset: 0, 0
+  index: -1
+Wild_Transform/Wild_Transform_00009
+  rotate: false
+  xy: 739, 850
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Transform/Wild_Transform_00010
+  rotate: false
+  xy: 739, 688
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Transform/Wild_Transform_00011
+  rotate: false
+  xy: 739, 526
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Transform/Wild_Transform_00012
+  rotate: false
+  xy: 739, 364
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+smoke/smoke_00008
+  rotate: true
+  xy: 2, 73
+  size: 360, 320
+  orig: 360, 320
+  offset: 0, 0
+  index: -1
+smoke/smoke_00009
+  rotate: false
+  xy: 324, 113
+  size: 360, 320
+  orig: 360, 320
+  offset: 0, 0
+  index: -1
+smoke/smoke_00010
+  rotate: true
+  xy: 686, 2
+  size: 360, 320
+  orig: 360, 320
+  offset: 0, 0
+  index: -1
+
+wild17.png
+size: 968,1012
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wild_Transform/Wild_Transform_00013
+  rotate: false
+  xy: 726, 850
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Transform/Wild_Transform_00014
+  rotate: false
+  xy: 726, 688
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Transform/Wild_Transform_00015
+  rotate: false
+  xy: 726, 164
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Transform/Wild_Transform_00016
+  rotate: false
+  xy: 726, 2
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+smoke/smoke_00011
+  rotate: false
+  xy: 2, 690
+  size: 360, 320
+  orig: 360, 320
+  offset: 0, 0
+  index: -1
+smoke/smoke_00012
+  rotate: false
+  xy: 364, 690
+  size: 360, 320
+  orig: 360, 320
+  offset: 0, 0
+  index: -1
+smoke/smoke_00013
+  rotate: true
+  xy: 2, 326
+  size: 360, 320
+  orig: 360, 320
+  offset: 0, 0
+  index: -1
+smoke/smoke_00014
+  rotate: false
+  xy: 2, 4
+  size: 360, 320
+  orig: 360, 320
+  offset: 0, 0
+  index: -1
+smoke/smoke_00015
+  rotate: true
+  xy: 324, 326
+  size: 360, 320
+  orig: 360, 320
+  offset: 0, 0
+  index: -1
+smoke/smoke_00016
+  rotate: false
+  xy: 364, 4
+  size: 360, 320
+  orig: 360, 320
+  offset: 0, 0
+  index: -1
+smoke/smoke_00017
+  rotate: true
+  xy: 646, 326
+  size: 360, 320
+  orig: 360, 320
+  offset: 0, 0
+  index: -1
+
+wild18.png
+size: 968,1012
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wild_Transform/Wild_Transform_00017
+  rotate: false
+  xy: 726, 850
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Transform/Wild_Transform_00018
+  rotate: false
+  xy: 726, 688
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Transform/Wild_Transform_00019
+  rotate: false
+  xy: 726, 164
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Transform/Wild_Transform_00020
+  rotate: false
+  xy: 726, 2
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+smoke/smoke_00018
+  rotate: false
+  xy: 2, 690
+  size: 360, 320
+  orig: 360, 320
+  offset: 0, 0
+  index: -1
+smoke/smoke_00019
+  rotate: false
+  xy: 364, 690
+  size: 360, 320
+  orig: 360, 320
+  offset: 0, 0
+  index: -1
+smoke/smoke_00020
+  rotate: true
+  xy: 2, 326
+  size: 360, 320
+  orig: 360, 320
+  offset: 0, 0
+  index: -1
+smoke/smoke_00021
+  rotate: false
+  xy: 2, 4
+  size: 360, 320
+  orig: 360, 320
+  offset: 0, 0
+  index: -1
+smoke/smoke_00022
+  rotate: true
+  xy: 324, 326
+  size: 360, 320
+  orig: 360, 320
+  offset: 0, 0
+  index: -1
+smoke/smoke_00023
+  rotate: false
+  xy: 364, 4
+  size: 360, 320
+  orig: 360, 320
+  offset: 0, 0
+  index: -1
+smoke/smoke_00024
+  rotate: true
+  xy: 646, 326
+  size: 360, 320
+  orig: 360, 320
+  offset: 0, 0
+  index: -1
+
+wild19.png
+size: 920,1006
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wild_Transform/Wild_Transform_00021
+  rotate: false
+  xy: 726, 844
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Transform/Wild_Transform_00022
+  rotate: false
+  xy: 364, 200
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Transform/Wild_Transform_00023
+  rotate: false
+  xy: 726, 682
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Transform/Wild_Transform_00024
+  rotate: false
+  xy: 726, 520
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Transform/Wild_Transform_00025
+  rotate: false
+  xy: 364, 38
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Transform/Wild_Transform_00026
+  rotate: true
+  xy: 558, 168
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Transform/Wild_Transform_00027
+  rotate: false
+  xy: 726, 358
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Transform/Wild_Transform_00028
+  rotate: false
+  xy: 720, 196
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+Wild_Transform/Wild_Transform_00029
+  rotate: false
+  xy: 558, 6
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+blink
+  rotate: true
+  xy: 752, 2
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+smoke/smoke_00025
+  rotate: false
+  xy: 2, 684
+  size: 360, 320
+  orig: 360, 320
+  offset: 0, 0
+  index: -1
+smoke/smoke_00026
+  rotate: false
+  xy: 2, 362
+  size: 360, 320
+  orig: 360, 320
+  offset: 0, 0
+  index: -1
+smoke/smoke_00027
+  rotate: false
+  xy: 364, 684
+  size: 360, 320
+  orig: 360, 320
+  offset: 0, 0
+  index: -1
+smoke/smoke_00028
+  rotate: false
+  xy: 2, 40
+  size: 360, 320
+  orig: 360, 320
+  offset: 0, 0
+  index: -1
+smoke/smoke_00029
+  rotate: false
+  xy: 364, 362
+  size: 360, 320
+  orig: 360, 320
+  offset: 0, 0
+  index: -1

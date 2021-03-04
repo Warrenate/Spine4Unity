@@ -1,0 +1,146 @@
+
+SplashScreen.png
+size: 688,484
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FS_bg
+  rotate: true
+  xy: 2, 14
+  size: 468, 266
+  orig: 468, 266
+  offset: 0, 0
+  index: -1
+MG_bg
+  rotate: true
+  xy: 270, 14
+  size: 468, 266
+  orig: 468, 266
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 2, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+cursor
+  rotate: false
+  xy: 538, 38
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+indi1
+  rotate: false
+  xy: 613, 42
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+indi1active
+  rotate: false
+  xy: 578, 43
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+indi2
+  rotate: false
+  xy: 613, 10
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+indi2active
+  rotate: false
+  xy: 578, 8
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+indi3
+  rotate: true
+  xy: 644, 43
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+indi3active
+  rotate: false
+  xy: 538, 3
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+lineYellow
+  rotate: false
+  xy: 2, 9
+  size: 30, 3
+  orig: 30, 3
+  offset: 0, 0
+  index: -1
+stackedWild
+  rotate: false
+  xy: 538, 282
+  size: 80, 200
+  orig: 80, 200
+  offset: 0, 0
+  index: -1
+sym0
+  rotate: true
+  xy: 620, 402
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+sym1
+  rotate: true
+  xy: 620, 320
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+sym3
+  rotate: true
+  xy: 620, 238
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+sym4
+  rotate: false
+  xy: 538, 214
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+sym5
+  rotate: true
+  xy: 620, 156
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+sym6
+  rotate: false
+  xy: 538, 146
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+sym7
+  rotate: false
+  xy: 538, 78
+  size: 79, 66
+  orig: 79, 66
+  offset: 0, 0
+  index: -1
+sym8
+  rotate: true
+  xy: 620, 74
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1

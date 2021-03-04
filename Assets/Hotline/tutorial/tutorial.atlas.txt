@@ -1,0 +1,90 @@
+
+tutorial.png
+size: 328,203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: false
+  xy: 321, 96
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+cursor
+  rotate: false
+  xy: 246, 95
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+indi1
+  rotate: true
+  xy: 281, 34
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+indi1active
+  rotate: false
+  xy: 286, 100
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+indi2
+  rotate: true
+  xy: 246, 29
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+indi2active
+  rotate: false
+  xy: 286, 65
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+indi3
+  rotate: false
+  xy: 278, 2
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+indi3active
+  rotate: false
+  xy: 246, 60
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+lineYellow
+  rotate: true
+  xy: 321, 103
+  size: 30, 3
+  orig: 30, 3
+  offset: 0, 0
+  index: -1
+stackedWild
+  rotate: false
+  xy: 163, 2
+  size: 81, 199
+  orig: 81, 199
+  offset: 0, 0
+  index: -1
+stackedWild1
+  rotate: false
+  xy: 2, 2
+  size: 159, 199
+  orig: 159, 199
+  offset: 0, 0
+  index: -1
+sym1
+  rotate: false
+  xy: 246, 135
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1

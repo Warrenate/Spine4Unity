@@ -1,0 +1,62 @@
+
+hotlineButton3.png
+size: 280,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black_round
+  rotate: false
+  xy: 174, 66
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+bt_1
+  rotate: false
+  xy: 174, 2
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+circleHotButton
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 104
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+line_sel
+  rotate: false
+  xy: 104, 18
+  size: 44, 14
+  orig: 44, 14
+  offset: 0, 0
+  index: -1
+line_sel1
+  rotate: true
+  xy: 238, 83
+  size: 45, 15
+  orig: 45, 15
+  offset: 0, 0
+  index: -1
+round
+  rotate: false
+  xy: 154, 130
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+round_sel
+  rotate: false
+  xy: 104, 34
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1

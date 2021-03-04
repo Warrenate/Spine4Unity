@@ -1,0 +1,244 @@
+
+Freespins_intro_spine.png
+size: 1707,420
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: false
+  xy: 1083, 330
+  size: 101, 88
+  orig: 101, 88
+  offset: 0, 0
+  index: -1
+red
+  rotate: false
+  xy: 2, 2
+  size: 635, 416
+  orig: 635, 416
+  offset: 0, 0
+  index: -1
+shine
+  rotate: false
+  xy: 639, 34
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+smoke/smoke_00000
+  rotate: false
+  xy: 1083, 248
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+smoke/smoke_00001
+  rotate: false
+  xy: 1186, 338
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+smoke/smoke_00002
+  rotate: false
+  xy: 1083, 166
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+smoke/smoke_00003
+  rotate: false
+  xy: 1278, 338
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+smoke/smoke_00004
+  rotate: false
+  xy: 1083, 84
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+smoke/smoke_00005
+  rotate: false
+  xy: 1370, 338
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+smoke/smoke_00006
+  rotate: false
+  xy: 1462, 338
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+smoke/smoke_00007
+  rotate: false
+  xy: 1554, 338
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+smoke/smoke_00008
+  rotate: false
+  xy: 1083, 2
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+smoke/smoke_00009
+  rotate: true
+  xy: 1175, 238
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+smoke/smoke_00010
+  rotate: true
+  xy: 1175, 146
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+smoke/smoke_00011
+  rotate: true
+  xy: 1175, 54
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+smoke/smoke_00012
+  rotate: false
+  xy: 1257, 256
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+smoke/smoke_00013
+  rotate: false
+  xy: 1257, 174
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+smoke/smoke_00014
+  rotate: false
+  xy: 1349, 256
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+smoke/smoke_00015
+  rotate: false
+  xy: 1257, 92
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+smoke/smoke_00016
+  rotate: false
+  xy: 1349, 174
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+smoke/smoke_00017
+  rotate: false
+  xy: 1441, 256
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+smoke/smoke_00018
+  rotate: false
+  xy: 1349, 92
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+smoke/smoke_00019
+  rotate: false
+  xy: 1441, 174
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+smoke/smoke_00020
+  rotate: false
+  xy: 1533, 256
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+smoke/smoke_00021
+  rotate: false
+  xy: 1441, 92
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+smoke/smoke_00022
+  rotate: false
+  xy: 1533, 174
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+smoke/smoke_00023
+  rotate: false
+  xy: 1533, 92
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+smoke/smoke_00024
+  rotate: false
+  xy: 1257, 10
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+smoke/smoke_00025
+  rotate: false
+  xy: 1349, 10
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+smoke/smoke_00026
+  rotate: false
+  xy: 1441, 10
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+smoke/smoke_00027
+  rotate: false
+  xy: 1533, 10
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+smoke/smoke_00028
+  rotate: true
+  xy: 1625, 246
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+smoke/smoke_00029
+  rotate: true
+  xy: 1625, 154
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+white car
+  rotate: false
+  xy: 639, 46
+  size: 442, 372
+  orig: 442, 372
+  offset: 0, 0
+  index: -1

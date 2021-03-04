@@ -1,0 +1,41 @@
+
+hotlineLine.png
+size: 759,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blueBack
+  rotate: false
+  xy: 727, 226
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 727, 236
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 2, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+text_hotline_line
+  rotate: false
+  xy: 2, 141
+  size: 723, 125
+  orig: 723, 125
+  offset: 0, 0
+  index: -1
+text_hotline_solid
+  rotate: false
+  xy: 2, 14
+  size: 723, 125
+  orig: 723, 125
+  offset: 0, 0
+  index: -1
